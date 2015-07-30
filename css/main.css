@@ -2,14 +2,55 @@
    Author's custom styles
    ========================================================================== */
 
+body {
+	background-color: #30240D;
+	color: #B5B1A5;
+}
+
 #map-container { height: 180px; }
 
+#map { height: 180px; }
+
+#links {
+	padding-top: 40px;
+}
+
+h2 {
+	color: #A6C437;
+}
+
+dt {
+	color: #C79F5A;
+}
+
+.carousel-caption1 {
+	color: #30240D;
+	font-size: 25px;
+	padding: 7px;
+}
+
+.carousel-caption2 {
+	color: #30240D;
+	font-size: 25px;
+	padding: 7px;
+}
+
+.carousel-caption3 {
+	color: #30240D;
+	font-size: 25px;
+	padding: 5px;
+}
 
 
+.carousel-inner {
+	background-color: gray;
+}
 
 
-
-
+#bs-example-navbar-collapse-2 {
+	margin-left: 520px;
+	font-size: 60px;
+} 
 
 
 
